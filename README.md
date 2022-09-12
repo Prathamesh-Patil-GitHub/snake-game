@@ -14,3 +14,6 @@ You can select mode from the starting screen
 Install & Enjoy :)
 
 ## Preview:
+<p align="center">
+<img src = "https://github.com/Prathamesh-Patil-GitHub/snake-game/blob/main/game-screen.png"/>
+</p>
